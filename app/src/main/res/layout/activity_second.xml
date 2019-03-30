@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_layout_second_activity"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_background"
+    tools:context=".Activities.SecondActivity">
+
+    <ImageView
+        android:id="@+id/iv_image_second_activity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/layout_nav_back_wall_save_share_fav"
+        android:layout_alignParentTop="true" />
+
+    <include
+        android:id="@+id/layout_nav_back_wall_save_share_fav"
+        layout="@layout/content_bottom_nav_second"
+      />
+
+
+</RelativeLayout>

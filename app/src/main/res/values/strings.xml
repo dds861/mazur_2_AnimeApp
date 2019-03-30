@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Wallpapers Cartoons</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saved_favs">Saved to Favorites</string>
+    <string name="saved_to_gallery">Saved to Gallery</string>
+    <string name="wallpaper_was_set">Wallpaper was set</string>
+
+    <!--facebook-->
+    <string name="facebook_app_id">2235414773442869</string>
+    <string name="fb_login_protocol_scheme">fb2235414773442869</string>
+
+    <!--//test banner id-->
+    <string name="admob_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+  
+
+    <!--//test Interstitial id-->
+    <string name="admob_interstitial_tilda_ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="yandex_api_key"></string>
+</resources>

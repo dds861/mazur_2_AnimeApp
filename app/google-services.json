@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "447705352137",
+    "firebase_url": "https://picsrandomproject2.firebaseio.com",
+    "project_id": "picsrandomproject2",
+    "storage_bucket": "picsrandomproject2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447705352137:android:5ca39543737d213d",
+        "android_client_info": {
+          "package_name": "com.wallpapers.cartoons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447705352137-pqpqq341a7fq34has8pluns39ah80o16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallpapers.cartoons",
+            "certificate_hash": "e5e87da777f12d59e33320bb18a903d5dd86ce8b"
+          }
+        },
+        {
+          "client_id": "447705352137-aus8nmng9jnravmuk8jdlj14e180uiad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeftcR6oOYrbshDQGn6NEx2CZKN_q4qug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447705352137-aus8nmng9jnravmuk8jdlj14e180uiad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
